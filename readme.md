@@ -19,7 +19,6 @@ There are three data files in the Boston dataset, but this time I just use two f
 
 - etc. （you could find the notebook for more details）
 
-
 ## reference url
 
 - <https://www.kaggle.com/code/yangyax/seattle-airbnb-eda>
